@@ -56,7 +56,11 @@ This Tableau dashboard provides an interactive analysis of house sales in King C
 - Highlights how house **condition and scenic views impact property value**.
 
 
+## Tools & Technologies Used
+- **Tableau**: For interactive data visualization.
 
+ ## Tableau Public Dashboard
+ - **Click here to view the interactive Dashboard** (https://public.tableau.com/app/profile/shahid.shaikh6835/favorites)
 
 
 
